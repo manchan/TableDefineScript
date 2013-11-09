@@ -1,8 +1,8 @@
 #!/bin/sh
 ## base config
 MYSQL_HOME=mysql
-MYSQL_USER=admin2
-MYSQL_PASSWD=Are9INxv
+MYSQL_USER=test
+MYSQL_PASSWD=******
 
 CSS_FILE_NAME="style.css"
 

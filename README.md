@@ -3,7 +3,7 @@ TableDefineScript
 
 TableDefineScript  
 
-####使い方  
+#### 使い方  
 1.generate_document.sh  
 bash  generate_document.sh DB名 > tableDefineDoc.html  
 
